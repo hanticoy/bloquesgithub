@@ -43,13 +43,13 @@ li {
     margin: 20px;
 }
 
-#articulo1 {
+.articulo1 {
     background-color: rgb(118, 216, 248);
 }
-#articulo2 {
+.articulo2 {
     background-color: rgb(233, 204, 248);
 }
-#articulo3 {
+.articulo3 {
     background-color: aliceblue;
 }
 
