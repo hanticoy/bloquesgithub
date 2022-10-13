@@ -29,9 +29,9 @@ footer {
     text-align: center;
 }
 
-img {
-    height: 300px;
-    width: 300px;
+img.octocat {
+    height: 200px;
+    width: 200px;
 }
 
 ul {
@@ -51,5 +51,3 @@ li {
 }
 .articulo3 {
     background-color: aliceblue;
-}
-
